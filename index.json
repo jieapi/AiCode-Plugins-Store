@@ -243,6 +243,27 @@
         "integration"
       ],
       "version": "1.0.0"
+    },
+    {
+      "id": "lcs.mcp-market",
+      "name": {
+        "default": "MCP Market",
+        "zh-CN": "MCP 市场"
+      },
+      "description": {
+        "default": "Browse, search and add MCP servers from GitHub and ModelScope in one lightweight page.",
+        "zh-CN": "轻量浏览、搜索并添加 MCP 服务器，数据来源只有 GitHub 与魔搭社区。支持查看详情、一键写入 MCP 配置、自由添加自定义服务器。"
+      },
+      "author": "lcs",
+      "repository": "https://github.com/Hakusho1dhsj/wuziqi",
+      "logo": "https://raw.githubusercontent.com/Hakusho1dhsj/wuziqi/aicode-plugins/lcs.mcp-market/icons/icon.png",
+      "license": "MIT",
+      "tags": [
+        "mcp",
+        "ui",
+        "tool"
+      ],
+      "version": "1.0.3"
     }
   ]
 }
