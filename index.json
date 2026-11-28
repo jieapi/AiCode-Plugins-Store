@@ -277,6 +277,26 @@
         "integration"
       ],
       "version": "0.1.0"
+    },
+    {
+      "id": "sensenova.gateway",
+      "name": {
+        "default": "SenseNova Image",
+        "zh-CN": "商汤生图"
+      },
+      "description": {
+        "default": "An image-generation-first local gateway for SenseNova (SenseTime): text-to-image and image editing on the U series. Every image is generated straight to disk and previewed in the chat first — you decide whether to upload or keep it. Multi-key pool with automatic rotation.",
+        "zh-CN": "专为 AI 生图做的商汤（SenseNova）本地网关：文生图、参考图改图，U 系列模型开箱即用。图片生成后立刻落盘并在聊天里先给你预览，你确认满意再决定上不上传、要不要保存，不满意就重生成；多 API Key 池自动轮换，掉一个不影响出图。"
+      },
+      "author": "sensenova",
+      "repository": "https://github.com/Hakusho1dhsj/wuziqi",
+      "logo": "https://raw.githubusercontent.com/Hakusho1dhsj/wuziqi/aicode-plugins/sensenova.gateway/icons/icon.png",
+      "license": "MIT",
+      "tags": [
+        "provider",
+        "tool"
+      ],
+      "version": "1.4.0"
     }
   ]
 }
