@@ -257,6 +257,26 @@
         "ui"
       ],
       "version": "0.1.1"
+    },
+    {
+      "id": "jieapi.github",
+      "name": {
+        "default": "GitHub",
+        "zh-CN": "GitHub"
+      },
+      "description": {
+        "default": "Browse and act on pull requests, issues and Actions runs of the current workspace repository with the gh CLI.",
+        "zh-CN": "在当前工作区仓库上查看与处理 Pull request、Issue 与 Actions 运行，数据由容器内 gh CLI 提供。"
+      },
+      "author": "jieapi",
+      "repository": "https://github.com/jieapi/aicode-plugins",
+      "homepage": "https://github.com/jieapi/aicode-plugins",
+      "license": "MIT",
+      "tags": [
+        "tool",
+        "integration"
+      ],
+      "version": "0.1.0"
     }
   ]
 }
