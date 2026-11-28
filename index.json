@@ -249,13 +249,14 @@
       },
       "author": "jieapi",
       "repository": "https://github.com/jieapi/aicode-plugins",
+      "logo": "https://raw.githubusercontent.com/jieapi/aicode-plugins/main/magpie-gateway/icons/icon.png",
       "license": "MIT",
       "tags": [
         "provider",
         "tool",
         "ui"
       ],
-      "version": "0.1.0"
+      "version": "0.1.1"
     }
   ]
 }
