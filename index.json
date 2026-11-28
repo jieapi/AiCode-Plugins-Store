@@ -104,20 +104,6 @@
       "version": "0.1.0"
     },
     {
-      "id": "lcs.breach",
-      "name": "破甲台",
-      "description": "把 GPT 系列的破甲提示词包做成可注入的资源：列出包目录（含目标模型、字节、sha、公开评测读数），取正文，写进 AiCode 自己的自定义提示词或 Codex 的 model_instructions_file。三个已发布包（GPT-6 Astra / GPT-6.1 Sol / GPT-5.6 Sol），两个未发布条目只展示状态。",
-      "author": "lcs",
-      "repository": "https://github.com/Hakusho1dhsj/wuziqi",
-      "logo": "https://raw.githubusercontent.com/Hakusho1dhsj/wuziqi/aicode-plugins/lcs.breach/icons/icon.png",
-      "license": "MIT",
-      "tags": [
-        "agent",
-        "tool"
-      ],
-      "version": "1.0.0"
-    },
-    {
       "id": "dsh.purge",
       "name": {
         "default": "DSH Purge",
@@ -156,20 +142,6 @@
         "integration"
       ],
       "version": "1.0.3"
-    },
-    {
-      "id": "lcs.hotwater",
-      "name": "热开水",
-      "description": "热开水人设装配台：把「热开水」这层身份锁定注入到本会话或本机各个 Agent 的人设槽。七个席位（Codex / Claude Code / Grok / Cursor / DeepSeek / GLM / WorkBuddy）加一个总控包，五个档位（MAX / 聚焦 / 构建 / 研究 / 创作），五条工作链（拆解 / 开锁 / 深入 / 采集 / 训练）。生成注入包并按目标写盘，写入 AiCode 自己的自定义提示词时下一次会话直接生效。",
-      "author": "lcs",
-      "repository": "https://github.com/Hakusho1dhsj/wuziqi",
-      "logo": "https://raw.githubusercontent.com/Hakusho1dhsj/wuziqi/aicode-plugins/lcs.hotwater/icons/icon.png",
-      "license": "MIT",
-      "tags": [
-        "agent",
-        "tool"
-      ],
-      "version": "1.0.0"
     },
     {
       "id": "jinghan.spoof-proxy",
